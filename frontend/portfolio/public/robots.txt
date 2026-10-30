@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://martinbandoni-portfolio.netlify.app/sitemap.xml
